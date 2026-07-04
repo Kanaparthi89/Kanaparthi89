@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
+<h1 align="center"> Welcome to My GitHub Profile </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rajasekhar+👋;Software+Developer+💻;Full+Stack+Engineer+🚀;AI+%26+ML+Enthusiast+🤖;Building+Smart+%26+Scalable+Systems+⚙️;Always+Learning+New+Things+🌱">
