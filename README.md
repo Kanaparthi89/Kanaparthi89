@@ -1,100 +1,113 @@
-<h1 align="center"> Welcome to My GitHub Profile </h1>
+<h1 align="center">Hi 👋, I'm Rajasekhar Kanaparthi</h1>
+<h3 align="center">Software Engineer: Backend Systems, Distributed Services & AI/ML Pipelines</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rajasekhar+👋;Software+Developer+💻;Full+Stack+Engineer+🚀;AI+%26+ML+Enthusiast+🤖;Building+Smart+%26+Scalable+Systems+⚙️;Always+Learning+New+Things+🌱">
+  <a href="https://www.linkedin.com/in/rajasekharkanaparthi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kanaparthi89"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39d353" /></a>
+  <a href="https://leetcode.com/u/rBN6AVFOhF/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="mailto:kanaparthirajasekhar890@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B_Years-39d353?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Platform_Scale-200K%2B_Users-39d353?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/API_Latency-%E2%88%9225%25-39d353?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Incidents-%E2%88%9240%25-39d353?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Release_Cycle-%E2%88%9235%25-39d353?style=flat-square&labelColor=0D1117" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🧭 My Story
 
-I'm **Rajasekhar**, a passionate **Software Developer & AI/ML Engineer** who loves building  
-scalable backend systems, intelligent AI applications, and modern full‑stack solutions.
+I've always been the person who can't leave something broken alone. Growing up, that meant taking apart anything with a screw in it just to see how it worked. In engineering, it turned into an actual career: I get restless around systems that are slow, fragile, or held together with duct tape, and I don't feel settled until I've made them better.
 
-I specialize in:
+My first real test of that came early in my career, on a team building software that thousands of people relied on every day without ever thinking about it, which is exactly the point. Nobody notices software until it breaks. I learned to care about the invisible stuff: the query that's a little too slow, the endpoint that occasionally times out under load, the code nobody wants to touch because nobody fully understands it anymore. Untangling those things taught me more than any tutorial could: patience, humility, and the satisfaction of fixing something quietly enough that no one even knows there was a problem.
 
-🔥 Full‑Stack Development  
-🔥 Machine Learning & Deep Learning  
-🔥 NLP & Generative AI (RAG, LLMs, Vector DBs)  
-🔥 Cloud & DevOps  
-🔥 APIs, Microservices & CI/CD  
-🔥 AI & Data Engineering  
-🔥 Database Design & Optimization  
-🔥 Software Architecture & Design Patterns  
+That curiosity eventually pulled me back into a classroom, not because I needed the degree, but because I wanted to understand the "why" behind the systems I'd been building on instinct. Grad school gave me the chance to build something from a completely blank page, with no legacy code, no inherited decisions, just a problem and the freedom to solve it properly.
+
+Now I work on healthcare software that real clinics and providers depend on to run their day, things like scheduling, billing, and patient records. It's not flashy work, but it's the kind where a bug isn't just an inconvenience; it can mean a provider can't see their next patient on time. That weight changed how I think about quality. I've also spent my own time chasing a newer curiosity: how far you can push AI systems before they stop being clever demos and start being something people can actually rely on. Watching a language model go from "interesting" to "trustworthy" under real constraints has been one of the more addicting problems I've worked on.
+
+If there's a thread running through all of it, it's this: I don't just want to write code that works. I want to build things that hold up when no one's watching, and stay curious enough to keep learning why they didn't, when they don't.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### ⚡ Currently
 
-### 💻 Languages & Frameworks
-
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/)
-[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/blazor/)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/)
-[![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/)
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)](https://expressjs.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🏥 Building clinical documentation, billing, scheduling & telehealth systems at **Ensora Health**
+- 🧠 Exploring production-grade RAG and vector search architecture
+- 📚 Sharpening algorithms daily on [LeetCode](https://leetcode.com/u/rBN6AVFOhF/)
+- 🎓 M.S. in Computer Science, Nova Southeastern University
 
 ---
 
-### 🧠 AI / ML / LLMs
+### 📌 Featured Projects
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
+🛠️ These are a few projects where I took an idea all the way from architecture to something that actually runs, the kind of build where you have to make real tradeoffs, not just follow a tutorial.
 
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)](https://platform.openai.com/docs)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://python.langchain.com/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-0A9396?style=for-the-badge&logo=pinecone&logoColor=white)](https://docs.pinecone.io/)
-[![Groq](https://img.shields.io/badge/Groq_AI-FF007F?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
+**[CareFusion-AI: Medical RAG Assistant](https://github.com/kanaparthi89)**
+Multi-stage LLM/RAG inference pipeline (LangChain, Pinecone, FAISS) over 100K+ medical documents. FastAPI microservices with async processing, cutting end-to-end latency by ~30%.
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+**[NutriLens: AI-Powered Nutrition Analysis Platform](https://github.com/kanaparthi89)**
+Full-stack nutrition platform integrating AI food-recognition APIs. Built with full keyboard navigation and a WCAG color-contrast audit for accessibility.
 
----
-
-### 🗄️ Databases
-
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/docs/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/docs/)
+**[Weather & AQI Analytics Platform](https://github.com/kanaparthi89)**
+Automated ETL pipelines integrating external REST APIs with Power BI dashboards, processing 100K+ data points, deployed on AWS/GCP with CI/CD.
 
 ---
 
-### ☁️ Cloud & DevOps
+### 📊 GitHub Activity
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/getting-started/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)](https://learn.microsoft.com/en-us/azure/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)](https://docs.docker.com/)
-[![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)](https://docs.github.com/en/actions)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github)](https://docs.github.com/en/actions)
+🔥 I'd rather show up consistently than in one big burst. A steady trail of small commits tends to say more about how someone actually works than a single massive upload ever could.
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/39d353/kanaparthi89" alt="Rajasekhar's GitHub contribution chart" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kanaparthi89&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=39D353" width="60%" />
+</p>
 
 ---
 
-## 🌟 Hobbies & Interests
+### 🧩 LeetCode
 
-🎒 Traveling  
-💻 Coding  
-📚 Learning new technologies  
-🎨 Designing clean UI/UX 
+I solve algorithmic problems regularly to stay sharp with core fundamentals such as arrays, strings, dynamic programming, graphs, and the broader DSA patterns that consistently appear in real-world engineering.  
+I also maintain a structured repository of solutions as part of my daily practice.
+
+
+<p align="center">
+  <a href="https://leetcode.com/u/rBN6AVFOhF/">
+    <img src="https://readme-components.vercel.app/api?component=leetcode&username=rBN6AVFOhF&theme=dark&fill=0D1117&dark=true&glass=true" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Click the banner to view my LeetCode profile.</sub>
+</p>
+
 ---
 
-## 🔗 Connect With Me
+### 🏆 Certifications
 
-📌 **GitHub:** https://github.com/Kanaparthi89  
-📌 **LinkedIn:** https://www.linkedin.com/in/rajasekharkanaparthi/  
-📌 **Email:** kanaparthirajasekhar890@gmail.com  
+📜 Outside of day-to-day project work, I set aside time to formally validate the cloud, data, and AI skills I use on the job. These are the ones I've completed so far.
+
+- AWS Certified Developer – Associate
+- AWS Certified Cloud Practitioner
+- Google Cloud Fundamentals
+- Google Data Analytics Professional Certificate
+- Career Essentials in Generative AI (Microsoft & LinkedIn)
+- Introduction to Claude (AI) – Anthropic
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajasekharkanaparthi/"><img src="https://img.shields.io/badge/-Rajasekhar%20Kanaparthi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kanaparthi89"><img src="https://img.shields.io/badge/-kanaparthi89-000000?style=flat-square&logo=github&logoColor=39d353"/></a>
+  <a href="https://leetcode.com/u/rBN6AVFOhF/"><img src="https://img.shields.io/badge/-rBN6AVFOhF-000000?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
+  <a href="mailto:kanaparthirajasekhar890@gmail.com"><img src="https://img.shields.io/badge/-kanaparthirajasekhar890@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/kanaparthi89">kanaparthi89</a></i></p>
