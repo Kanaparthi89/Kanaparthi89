@@ -56,20 +56,6 @@ Automated ETL pipelines integrating external REST APIs with Power BI dashboards,
 
 ---
 
-### 📊 GitHub Activity
-
-🔥 I'd rather show up consistently than in one big burst. A steady trail of small commits tends to say more about how someone actually works than a single massive upload ever could.
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/kanaparthi89" alt="Rajasekhar's GitHub contribution chart" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanaparthi89&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=39D353" width="60%" />
-</p>
-
----
-
 ### 🧩 LeetCode
 
 I solve algorithmic problems regularly to stay sharp with core fundamentals such as arrays, strings, dynamic programming, graphs, and the broader DSA patterns that consistently appear in real-world engineering.  
